@@ -7,3 +7,5 @@ Pillow
 Pytesseract
 
 The Pytesseract engine is a python binding for the the Tesseract OCR engine which is sponsored by Google and is the main module in this software. A good OCR software requires quality preprocessing steps in order to arrive at an improved output. 
+
+Youtube video here https://www.youtube.com/watch?v=z1S1XU62g5o&feature=youtu.be
